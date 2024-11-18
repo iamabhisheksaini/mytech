@@ -12,7 +12,7 @@ const TravelPage = () => {
 
       <header className="relative">
         <img
-          src="https://storage.googleapis.com/a1aa/image/nf6m4rJyL7VIPSfOeSOYUbYYc9ksEpnLoVsgCjl8DlKpLxjnA.jpg"
+          src=".https://storage.googleapis.com/a1aa/image/nf6m4rJyL7VIPSfOeSOYUbYYc9ksEpnLoVsgCjl8DlKpLxjnA.jpg"
           alt="Mountain landscape with a dramatic sky"
           className="w-full h-96 object-cover"
           width="1920"
@@ -32,7 +32,7 @@ const TravelPage = () => {
           {['Darjeeling', 'Munnar', 'Delhi'].map((destination, index) => (
             <div key={index} className="bg-white text-black rounded-lg overflow-hidden shadow-lg w-64">
               <img
-                src={`https://storage.googleapis.com/a1aa/image/${
+                src={`.https://storage.googleapis.com/a1aa/image/${
                   destination === 'Darjeeling'
                     ? 'q7anBIt3DMqUE97uqHeTv8qT9WC9QUhFuyKVyiO5CpX8S84JA.jpg'
                     : destination === 'Munnar'
@@ -58,7 +58,7 @@ const TravelPage = () => {
 
       <section className="relative py-12">
         <img
-          src="https://storage.googleapis.com/a1aa/image/UJHYdPigoeX6AaZf1QLfzh4PZk0r8P7D5E1r9Sl4XFV0LxjnA.jpg"
+          src=".https://storage.googleapis.com/a1aa/image/UJHYdPigoeX6AaZf1QLfzh4PZk0r8P7D5E1r9Sl4XFV0LxjnA.jpg"
           alt="Mountain at night"
           className="w-full h-96 object-cover"
           width="1920"

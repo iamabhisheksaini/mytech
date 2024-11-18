@@ -518,7 +518,7 @@ const Header = () => {
                     </div>
                     <div className="flex flex-col items-center mt-4">
                         <img 
-                            src="https://storage.googleapis.com/a1aa/image/0cxzBjGeVXyXbSw8dKqU5VdzFVeVUcOQCZawD4B9MZ2TiMyTA.jpg" 
+                            src=".https://storage.googleapis.com/a1aa/image/0cxzBjGeVXyXbSw8dKqU5VdzFVeVUcOQCZawD4B9MZ2TiMyTA.jpg" 
                             alt="Profile picture of a person"
                             className="w-16 h-16 rounded-full"
                         />
