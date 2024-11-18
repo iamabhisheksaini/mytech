@@ -58,7 +58,7 @@ const Influencers = () => {
       <div className="flex space-x-8">
         <div className="w-40 h-40 rounded-full overflow-hidden">
           <img
-            src=".https://storage.googleapis.com/a1aa/image/ifnJvf5y0DvfLpYJKXId2IZrzAP4ePpXJOSytezDjYFoh9PeE.jpg"
+            src="https://storage.googleapis.com/a1aa/image/ifnJvf5y0DvfLpYJKXId2IZrzAP4ePpXJOSytezDjYFoh9PeE.jpg"
             alt="Smiling woman with long hair, sitting and holding her hand up"
             className="w-full h-full object-cover"
             width="160"
@@ -67,7 +67,7 @@ const Influencers = () => {
         </div>
         <div className="w-40 h-40 rounded-full overflow-hidden">
           <img
-            src=".https://storage.googleapis.com/a1aa/image/kY7TdfDzv60FTyuHwFFVZfu67igj9cgz4YHXl4WAhUCKsfjnA.jpg"
+            src="https://storage.googleapis.com/a1aa/image/kY7TdfDzv60FTyuHwFFVZfu67igj9cgz4YHXl4WAhUCKsfjnA.jpg"
             alt="Man with short hair and beard, smiling slightly"
             className="w-full h-full object-cover"
             width="160"
@@ -76,7 +76,7 @@ const Influencers = () => {
         </div>
         <div className="w-40 h-40 rounded-full overflow-hidden">
           <img
-            src=".https://storage.googleapis.com/a1aa/image/eAP3oe2ncWit60fpl8UXu7rTu3693iLnWfA1HVtZ0c7swePeE.jpg"
+            src="https://storage.googleapis.com/a1aa/image/eAP3oe2ncWit60fpl8UXu7rTu3693iLnWfA1HVtZ0c7swePeE.jpg"
             alt="Woman with long hair, smiling and holding her hand to her chin"
             className="w-full h-full object-cover"
             width="160"
@@ -85,7 +85,7 @@ const Influencers = () => {
         </div>
         <div className="w-40 h-40 rounded-full overflow-hidden">
           <img
-            src=".https://storage.googleapis.com/a1aa/image/mTmC5gBOqLZ6OZeGw5FZx0fD5PLHXlsRe7UHrSa6hk3QYfHPB.jpg"
+            src="https://storage.googleapis.com/a1aa/image/mTmC5gBOqLZ6OZeGw5FZx0fD5PLHXlsRe7UHrSa6hk3QYfHPB.jpg"
             alt="Man with curly hair and beard, smiling and looking to the side"
             className="w-full h-full object-cover"
             width="160"

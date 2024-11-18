@@ -21,12 +21,12 @@ const LandingPage = () => {
                 </div>
             </div>
             <div className="md:w-1/2 grid grid-cols-2 gap-4">
-                <img alt="Person taking a photo with a camera" className="rounded-lg" height="300" src=".https://storage.googleapis.com/a1aa/image/f5lOvhS4GY18AyIfXCUPOoFikkHe2eNm2yrpqyfOktOgHDPeE.jpg" width="300" />
-                <img alt="Person walking in a forest with a backpack" className="rounded-lg" height="300" src=".https://storage.googleapis.com/a1aa/image/yjtR3mED2aIQJZbV1factN67EsjJ4Y9clsjC2FZ1G5AcM84JA.jpg" width="300" />
-                <img alt="Person sitting on a ledge overlooking a mountain road" className="rounded-lg" height="300" src=".https://storage.googleapis.com/a1aa/image/Joizf9jtZfkf8o6Sx9cPsedsflfwAeWawb8BylI2BuQtSM84JA.jpg" width="300" />
-                <img alt="Portrait of a person with colorful lighting" className="rounded-lg" height="300" src=".https://storage.googleapis.com/a1aa/image/dUvuEeghONQnIi6CZikpNDKhKDmWKwnghOksj3BN0qXaM84JA.jpg" width="300" />
-                <img alt="Two people posing in stylish outfits" className="rounded-lg" height="300" src=".https://storage.googleapis.com/a1aa/image/geeZJSDdULukfogiXl4HMPLLbXx7KIZ1qLet7RJBRSRuihHPB.jpg" width="300" />
-                <img alt="Two people walking on a bridge in autumn" className="rounded-lg" height="300" src=".https://storage.googleapis.com/a1aa/image/l9eBwghuUd3elUGNGQfsTp9mfc8BNj3WBb7sfR2GFjH4FDPeE.jpg" width="300" />
+                <img alt="Person taking a photo with a camera" className="rounded-lg" height="300" src="https://storage.googleapis.com/a1aa/image/f5lOvhS4GY18AyIfXCUPOoFikkHe2eNm2yrpqyfOktOgHDPeE.jpg" width="300" />
+                <img alt="Person walking in a forest with a backpack" className="rounded-lg" height="300" src="https://storage.googleapis.com/a1aa/image/yjtR3mED2aIQJZbV1factN67EsjJ4Y9clsjC2FZ1G5AcM84JA.jpg" width="300" />
+                <img alt="Person sitting on a ledge overlooking a mountain road" className="rounded-lg" height="300" src="https://storage.googleapis.com/a1aa/image/Joizf9jtZfkf8o6Sx9cPsedsflfwAeWawb8BylI2BuQtSM84JA.jpg" width="300" />
+                <img alt="Portrait of a person with colorful lighting" className="rounded-lg" height="300" src="https://storage.googleapis.com/a1aa/image/dUvuEeghONQnIi6CZikpNDKhKDmWKwnghOksj3BN0qXaM84JA.jpg" width="300" />
+                <img alt="Two people posing in stylish outfits" className="rounded-lg" height="300" src="https://storage.googleapis.com/a1aa/image/geeZJSDdULukfogiXl4HMPLLbXx7KIZ1qLet7RJBRSRuihHPB.jpg" width="300" />
+                <img alt="Two people walking on a bridge in autumn" className="rounded-lg" height="300" src="https://storage.googleapis.com/a1aa/image/l9eBwghuUd3elUGNGQfsTp9mfc8BNj3WBb7sfR2GFjH4FDPeE.jpg" width="300" />
             </div>
         </div>
     );
